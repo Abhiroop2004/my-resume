@@ -33,7 +33,7 @@ def show_academic_details():
     st.write("### :school: Academic Details")
     st.write("#### :mortar_board: Undergraduate")
     st.write("- ##### 👨🏻‍💻 Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning) ")
-    st.write("- ###### Institute of Engineering & Management (2022-26)")
+    st.write("- ###### Institute of Engineering & Management, Kolkata (2022-26)")
     st.write("- ###### :paperclip: YGPA: 9.54 -- Sem I: 9.36, Sem II: 9.72 ")
     st.write("- ###### Departmental Rank - 6")
     st.write("#### :mortar_board: School")
