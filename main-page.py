@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     st.title(":wave: Hi, I'm Abhiroop Sarkar")
-    st.sidebar.image("cropped-profilepic.png", use_column_width=True, output_format="PNG", width=150, )
+    st.sidebar.image("cropped-profilepic.png", use_column_width=True, output_format="PNG", width=200, )
 
     st.sidebar.header("Navigation")
     menu_selection = st.sidebar.radio("",["Home", "Academic Details", "Research Experience", "Projects", "Skills", "Links"])
@@ -23,10 +23,9 @@ def main():
 def show_home():
     st.write("### 👨‍🎓 Undergrad @ IEM, Kolkata")
     st.write("#### Research Assistant @ IEM Centre of Excellence for Cloud Computing & IoT")
-    #st.write("#### Welcome to my digital resume!")
     st.write("###### A 2nd-year Computer Science undergraduate and an aspiring Researcher with a passion for cryptography. Possesses foundational knowledge and a strong desire to expand expertise in the field, and ability to work diligently within a team environment. Seeking internship opportunities to further explore cryptographic research and contribute to innovative projects")
     st.write("###### Contact Info: ")
-    st.write("- 📧 Mail: Abhiroop.Sarkar@iem.edu.in")
+    st.write("- 📧 Mail: Abhiroop.Sarkar2022@iem.edu.in")
     st.write("- 📧 Personal mail: abhiroopsarkar2004@gmail.com")
     st.write("- 📞 Phone: (+91) 6290397585")
 
