@@ -37,8 +37,9 @@ def show_academic_details():
     st.write("- ###### :paperclip: YGPA: 9.54 -- Sem I: 9.36, Sem II: 9.72 ")
     st.write("- ###### Departmental Rank - 6")
     st.write("#### :mortar_board: School")
-    st.write("- ###### 12th from Hariyana Vidhya Mandir Kolkata (2022) -- 78.2%")
+    st.write("- ###### 12th from Hariyana Vidhya Mandir Kolkata (2022) -- 77.8%")
     st.write("- ###### 10th from St. Mary's Orphanage & Day School, Kolkata (2021) -- 92.4%")
+    st.write("During the year 2021-22, I faced overwhelming anxiety and stress. It was a dark time, reflected in my lower percentage on the 12th board and also affected my performance in competitive exams. Those days were incredibly challenging, but I've come a long way since then. I'm determined to rise above my past struggles and prove myself better.")
 
 def show_research_experience():
     st.write("### 👨🏻‍🔬Research Experience")
