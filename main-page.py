@@ -23,8 +23,7 @@ def main():
 def show_home():
     st.write("### 👨‍🎓 Undergrad @ IEM, Kolkata")
     st.write("#### Research Assistant @ IEM Centre of Excellence for Cloud Computing & IoT")
-    st.write("###### A 2nd-year Computer Science undergraduate and an aspiring Researcher with a passion for cryptography. Possesses foundational knowledge and a strong desire to expand expertise in the field, and ability to work diligently within a team environment. Seeking internship opportunities to further explore cryptographic research and contribute to innovative projects")
-    st.write("###### Contact Info: ")
+    st.write("###### I'm a second-year Computer Science undergraduate, who is deeply passionate about cryptography and computer security. With a good foundation in computer science, I'm eager to dive deeper into the field and expand my knowledge base. I thrive in team environments, where I diligently contribute and learn alongside my peers. I'm actively seeking internship opportunities in research labs to immerse myself in cryptographic research and be part of innovative projects. Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫")    st.write("###### Contact Info: ")
     st.write("- 📧 Mail: Abhiroop.Sarkar2022@iem.edu.in")
     st.write("- 📧 Personal mail: abhiroopsarkar2004@gmail.com")
     st.write("- 📞 Phone: (+91) 6290397585")
