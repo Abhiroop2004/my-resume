@@ -34,7 +34,7 @@ def show_academic_details():
     st.write("#### :mortar_board: Undergraduate")
     st.write("- ##### 👨🏻‍💻 Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning) ")
     st.write("- ###### Institute of Engineering & Management, Kolkata (2022-26)")
-    st.write("- ###### :paperclip: GPA: 9.49 -- Sem I: 9.36, Sem II: 9.72, Sem III: 9.38")
+    st.write("- ###### :paperclip: GPA: 9.48 -- Sem I: 9.36, Sem II: 9.72, Sem III: 9.38")
     st.write("- ###### Departmental Rank - 6 (1st year)")
     st.write("#### :mortar_board: School")
     st.write("- ###### 12th from Hariyana Vidhya Mandir Kolkata (2022) -- 77.8%")
