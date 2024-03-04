@@ -90,6 +90,7 @@ def show_Links():
     st.write("- ##### [LinkedIn](https://www.linkedin.com/in/abhiroop-sarkar-77b250245/)")
     st.write("- ##### [GitHub Profile](https://github.com/Abhiroop2004)")
     st.write("- ##### [Google Scholar](https://scholar.google.com/citations?user=9GIfLH8AAAAJ&hl=en)")
+    st.write("- ##### [Resume](https://drive.google.com/file/d/1YAM2dHmORKycoHAKTNZM_9tHhV4g3zke/view)")
 
 if __name__ == "__main__":
     main()
